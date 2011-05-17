@@ -886,7 +886,7 @@ ImageData = function() { }
 * @BB60+
 * @PB10
 */
-ImageData.prototype.data;
+ImageData.prototype.data =  { };
 
 /**
 * The number of physical device pixels per row in the image data.
@@ -895,7 +895,7 @@ ImageData.prototype.data;
 * @BB60+
 * @PB10
 */
-ImageData.prototype.height;
+ImageData.prototype.height =  { };
 
 /**
 * The number of rows in the image data.
@@ -904,7 +904,7 @@ ImageData.prototype.height;
 * @BB60+
 * @PB10
 */
-ImageData.prototype.width;
+ImageData.prototype.width =  { };
 
 /**
 * @namespace
