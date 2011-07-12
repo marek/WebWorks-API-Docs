@@ -79,8 +79,6 @@
  *         alert("try recording an .amr audio file");
  *         return;
  *     }
- * }
- *
  *   alert('error code:' + errorCode + ' error message:' + errorMessage);
  * }
  *
