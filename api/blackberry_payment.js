@@ -28,7 +28,7 @@
  * @toc {Payment} Payment
  * @featureID blackberry.payment
  * @notice {Warning (BlackBerry 5.0 Notice):}
- * JSON.stringify() is not availabe with the BlackBerry 5.0 browser.  As an alternative, consider using a free JSON parser such as <a href="http://www.json.org/js.html" target="_blank">json_parse.js / json2.js</a> or <a href="http://code.google.com/p/json-sans-eval/" target="_blank">json-sans-eval</a>.
+ * The javascript method JSON.stringify() is not availabe with the BlackBerry 5.0 browser.  
  */
 blackberry.payment = {
 
